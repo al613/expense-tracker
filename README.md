@@ -26,3 +26,12 @@ A full-stack web application designed to track personal expenses, categorize spe
 1. Navigate to the `backend` directory:
    ```bash
    cd backend
+
+   
+
+### 3. githup Link
+ 1. link : https://github.com/al613/expense-tracker.git
+
+ ### 3. Recored Link
+ 1. link : https://drive.google.com/file/d/12UIWnS-4yqGlN89db_d_QknqWOQrT_aL/view?usp=drive_link
+ 
