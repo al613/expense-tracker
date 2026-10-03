@@ -1,0 +1,43 @@
+# Dependencies / المكتبات والحزم
+node_modules/
+.pnpm-store/
+vendor/
+
+# Environment Variables / البيانات الحساسة والمفاتيح
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Build & Output / ملفات البناء والتنفيذ
+dist/
+build/
+.next/
+out/
+bin/
+obj/
+
+# Logs / ملفات التسجيل والسجلات
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE & Editor Settings / إعدادات المحررات والبيئات Local
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# System Files / ملفات النظام الفرعية
+.DS_Store
+Thumbs.db
